@@ -1,4 +1,4 @@
-#### Dropbox上にあるファイルの共有リンクを一括で取得し、ファイル名とURLをセットでcsvファイルとして保存することができます
+#### Dropbox上にあるファイルの共有リンクを一括で取得し、ファイル名とURLをセットでcsvファイルに保存することができます
 ### ステップ1　APIの有効化
 [こちら](https://www.dropbox.com/developers/apps/create?_tk=pilot_lp&_ad=ctabtn1&_camp=create)でAPIを設定する
 1. Choose an API ⇒　"Scoped access"を選択
