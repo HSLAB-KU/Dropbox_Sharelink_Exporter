@@ -1,0 +1,2 @@
+# Dropbox_Sharelink_Exporter
+Dropbox上のファイルの共有リンクを一括で取得するコード
