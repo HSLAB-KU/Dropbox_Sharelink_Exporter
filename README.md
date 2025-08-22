@@ -7,9 +7,10 @@
 4. 右下"Create app"押下
 
 ### ステップ2　APIの設定
-1. "Settings"タブ内の"Generated access token"押下
-2. 生成された文字列をコピー
-3. "Permissions"タブ内の"account_info.read", "files.metadata.read", "files.content.read", "sharing.read"にチェック
+1. "Permissions"タブ内の"account_info.read", "files.metadata.read", "files.content.read", "sharing.read"にチェック
+2. ページ下部"Submit"押下
+3. "Settings"タブ内の"Generated access token"押下
+4. 生成された文字列をコピー
 
 ### ステップ3　Pythonの設定
 ライブラリ"dropbox"と"pandas"をインストール
